@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sanjog152\\profilerPHP\\": "src/Sanjog152/ProfilerPHP"
+            "Sanjog152\\profilerPHP\\": "src"
         }
     }
 }
