@@ -14,7 +14,7 @@ i<?php
 
 namespace Sanjog152\profilerPHP;
 
-class Profiler {
+class ProfilerPHP {
 
     	public $result;
     	public $start_time;
