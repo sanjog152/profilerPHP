@@ -1,0 +1,25 @@
+{
+    "name": "sanjog152/profilerphp",
+    "description": "this package is designed for profiling existing php codes",
+    "type": "library",
+    "keywords": ["profiler","php","sanjog152"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjog Kumar Dash",
+            "email": "sanjog152@gmail.com",
+            "homepage": "https://github.com/sanjog152/profilerPHP",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Sanjog152\\profilerPHP": "src/"
+        }
+    }
+}
